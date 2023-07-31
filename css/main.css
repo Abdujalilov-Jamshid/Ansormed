@@ -1,7 +1,7 @@
 /* Fonts */
 
 @font-face {
-    font-family: 'Open 'Sans SemiCondensed', sans-serif';
+    font-family: 'Open ' Sans SemiCondensed', sans-serif';
     src: url('../assets/fonts/OpenSansSemiCondensed-ExtraBold.woff2') format('woff2'),
         url('../assets/fonts/OpenSansSemiCondensed-ExtraBold.woff') format('woff');
     font-weight: bold;
@@ -260,7 +260,7 @@ img {
 
 .intro__container {
     padding: 120px 10px;
-    background: url("../assets/img/hero-img.png");
+    background: url("../hero-img.png");
     background-position: center right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -291,6 +291,8 @@ img {
     font-weight: 400;
     line-height: 150%;
 }
+
+
 
 .intro__link {
     padding: 12px 24px;
